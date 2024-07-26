@@ -6,6 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
+
 # Distribution / packaging
 .Python
 build/
@@ -144,6 +145,10 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+config.py
+
+
 
 # Pyre type checker
 .pyre/
