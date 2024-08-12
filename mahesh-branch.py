@@ -9,3 +9,9 @@ def factorial(m):
         return 1
     else:
         return n * factorial(n-1)
+
+def factorial(3m):
+    if n == 0:
+        return 1
+    else:
+        return n * factorial(n-1)
